@@ -1,16 +1,16 @@
 # excelsearchdocx
-1. useage
-read keyword from excel,search from doc docx dir.
+##1. useage
+###read keyword from excel,search from doc docx dir.
 
-2. 用 Pyinstaller 打包 Python exe程序
-#use pipenv
+##2. 用 Pyinstaller 打包 Python exe程序
+
 pip install pipenv
 pipenv install --python 3.7
 pipenv shell
 pip list
 
 
-#install
+
 pipenv install xlwt
 pipenv install xlrd
 pipenv install lxml
