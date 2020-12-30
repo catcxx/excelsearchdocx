@@ -17,5 +17,5 @@
 * pipenv install python-docx
 * pipenv install pypiwin32
 
-* pyinstaller,use your ico
+
 * pyinstaller --distpath Release/ -w -i favicon.ico --clean tk2_searchdocx_by_excelkeyword.py
